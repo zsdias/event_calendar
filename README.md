@@ -2,4 +2,5 @@
 
 # Screenshot
 
-![Screenshot](7.png_8.png)
+![Screenshot](7.png)
+![Screenshot](8.png)
